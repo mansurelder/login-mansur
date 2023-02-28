@@ -1,0 +1,45 @@
+body {
+  background-color: #2A4480;
+}
+
+.container {
+  position: absolute;
+  top: 250px;
+  left: 500px;
+  background-color: #2B4181;
+  box-shadow: -5px 10px 50px -5px gray;
+  border-radius: 10px;
+}
+
+form {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+input {
+  width: 400px;
+  padding: 10px;
+  background-color: #2B4181;
+  border: none;
+  outline: 0 !important;
+}
+
+input:focus {
+  border: 2px solid #2A4480;
+  box-shadow: 3px 3px 15px -1px gray;
+  border-radius: 5px;
+}
+
+.login {
+  margin-left: 10px;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 1000000px;
+}
